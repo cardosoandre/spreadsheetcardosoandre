@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 636004a64c6bb49498aab721cfa72810
+timeCreated: 1455587586
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemy1light_0
+    21300002: enemy1light_1
+    21300004: enemy1light_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: enemy1light_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 70
+        height: 40
+      alignment: 9
+      pivot: {x: 0.22735761, y: 0.23004818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.915031, y: 30.798073}
+        - {x: -15.915031, y: -3.2019272}
+        - {x: -1.9150314, y: -9.201927}
+        - {x: 47.08497, y: -9.201927}
+        - {x: 54.08497, y: -2.2019272}
+        - {x: 54.08497, y: 21.798073}
+        - {x: 29.084969, y: 30.798073}
+    - name: enemy1light_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 70
+        height: 41
+      alignment: 9
+      pivot: {x: 0.2094206, y: 0.25500673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.659443, y: 30.544724}
+        - {x: -14.659443, y: 6.5447235}
+        - {x: -5.659443, y: -10.4552765}
+        - {x: 34.340557, y: -10.4552765}
+        - {x: 55.340557, y: -4.4552765}
+        - {x: 55.340557, y: 29.544724}
+        - {x: 49.340557, y: 30.544724}
+    - name: enemy1light_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 70
+        height: 42
+      alignment: 9
+      pivot: {x: 0.195071, y: 0.24888204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.65497, y: 31.546955}
+        - {x: -13.65497, y: 5.546954}
+        - {x: -4.65497, y: -10.453046}
+        - {x: 32.34503, y: -10.453046}
+        - {x: 56.34503, y: -3.4530458}
+        - {x: 56.34503, y: 21.546955}
+        - {x: 38.34503, y: 31.546955}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
